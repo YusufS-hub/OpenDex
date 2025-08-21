@@ -5,7 +5,7 @@
 DataDex is a production-style data engineering project that ingests Pokémon data from the PokeAPI
 , transforms it into dimensional/fact models, and exposes it through a queryable warehouse, APIs, and dashboards.
 
-##🔧 Tech Stack
+🔧 Tech Stack
 
 Python + Pandas → API ingestion & JSON normalization
 
@@ -25,7 +25,7 @@ Docker + GitHub Actions → Reproducible deployments & CI/CD
 
 Grafana + CloudWatch → Pipeline health, data freshness, and observability
 
-##🚀 Features
+🚀 Features
 
 Scheduled ingestion of Pokémon, moves, abilities, and type matchups
 
